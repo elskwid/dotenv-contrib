@@ -1,5 +1,8 @@
 # dotenv-contrib [![Build Status](https://secure.travis-ci.org/elskwid/dotenv-contrib.png)](https://travis-ci.org/elskwid/dotenv-contrib)
 
+## Status
+This is an unofficial, proof-of-concept repo at the moment. See [this issue](https://github.com/bkeepers/dotenv/pull/66#issuecomment-26930741) for more information.
+
 Collection of feature extensions, enhancements, other goodies for use with [Dotenv](https://github.com/bkeepers/dotenv). Dotenv loads environment variables from `.env` into `ENV`.
 
 ## Installation
