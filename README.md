@@ -1,10 +1,6 @@
 # dotenv-contrib [![Build Status](https://secure.travis-ci.org/elskwid/dotenv-contrib.png)](https://travis-ci.org/elskwid/dotenv-contrib)
 
-Collection of features, enhancements, other goodies for use with [Dotenv](https://github.com/bkeepers/dotenv). Dotenv loads environment variables from `.env` into `ENV`.
-
-Storing [configuration in the environment](http://www.12factor.net/config) is one of the tenets of a [twelve-factor app](http://www.12factor.net/). Anything that is likely to change between deployment environments–such as resource handles for databases or credentials for external services–should be extracted from the code into environment variables.
-
-But it is not always practical to set environment variables on development machines or continuous integration servers where multiple projects are run. Dotenv load variables from a `.env` file into ENV when the environment is bootstrapped.
+Collection of feature extensions, enhancements, other goodies for use with [Dotenv](https://github.com/bkeepers/dotenv). Dotenv loads environment variables from `.env` into `ENV`.
 
 ## Installation
 
